@@ -1,8 +1,8 @@
 # TODOiT
 
-# A simple VueJS todo app
+## A simple VueJS todo app
 
-# check it in: <a href="https://todoit-vue-app.web.app" target="_blank">TODOiT</>
+## check it in: <a href="https://todoit-vue-app.web.app" target="_blank">TODOiT</a>
 
 ## Project setup
 ```
